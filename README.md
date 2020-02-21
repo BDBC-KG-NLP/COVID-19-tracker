@@ -7,10 +7,10 @@
 本数据集采集自全国政府官网、卫健委等官方途径，现共获取4626位确诊患者轨迹信息（截至至2月21日，数据将持续更新）
 
 ## 结构化数据属性
-![image](https://github.com/BDBC-KG-NLP/track_data/blob/master/IMG/%E5%8E%9F%E5%A7%8B%E6%95%B0%E6%8D%AE.png)
+![image](https://github.com/BDBC-KG-NLP/track_data/blob/master/IMG/%E5%8E%9F%E5%A7%8B%E6%95%B0%E6%8D%AE.png=50X50)
 原始数据
 
-![image](https://github.com/BDBC-KG-NLP/track_data/blob/master/IMG/json%E6%A0%BC%E5%BC%8F.png)
+![image](https://github.com/BDBC-KG-NLP/track_data/blob/master/IMG/json%E6%A0%BC%E5%BC%8F.png=50X50)
 抽取结构化json数据
 
 公开数据以患者为单位，分为基本信息和轨迹信息两类信息：
