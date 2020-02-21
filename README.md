@@ -26,5 +26,5 @@
 
 ## 关于我们
 
-![url](http://bdbc.buaa.edu.cn/?lang=zh)
+![北京市大数据科学与脑机智能高精尖创新中心]<http://bdbc.buaa.edu.cn/?lang=zh>
 
