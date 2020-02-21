@@ -26,7 +26,9 @@
 
 ## 数据使用说明
 本数据仅开源作为研究使用，相关科研成果请引用。
-如有商业用途请联系我们
+   中文署名：北京航空航天大学大数据科学与脑机智能高精尖创新中心，北京， 100191 
+   英文署名： Beijing Advanced Innovation Center for Big Data and Brain Computing, Beihang University, Beijing, 100191
+如有商业用途请联系我们.
 
 ## 关于我们
 
