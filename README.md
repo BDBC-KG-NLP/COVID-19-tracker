@@ -26,3 +26,5 @@
 
 ## 关于我们
 
+![url](http://bdbc.buaa.edu.cn/?lang=zh)
+
