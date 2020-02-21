@@ -7,7 +7,16 @@
 本数据集采集自全国政府官网、卫健委等官方途径，现共获取4626位确诊患者轨迹信息（截至至2月21日，数据将持续更新）
 
 ## 结构化数据属性
-![image](https://github.com/BDBC-KG-NLP/track_data/blob/master/IMG/%E5%8E%9F%E5%A7%8B%E6%95%B0%E6%8D%AE.png=50X50)
+
+<img src="http://p1-ks3.532106.com/33f925f1f92649678221088fdfb531a1.jpg" alt="图片替换文本" width="500" height="313" align="bottom" />
+
+
+作者：Fsn_soul
+链接：https://www.jianshu.com/p/5c1805c6f0ff
+来源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+![image](https://github.com/BDBC-KG-NLP/track_data/blob/master/IMG/%E5%8E%9F%E5%A7%8B%E6%95%B0%E6%8D%AE.png=50x50)
 原始数据
 
 ![image](https://github.com/BDBC-KG-NLP/track_data/blob/master/IMG/json%E6%A0%BC%E5%BC%8F.png=50X50)
