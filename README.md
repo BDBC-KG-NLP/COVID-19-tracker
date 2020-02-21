@@ -7,6 +7,8 @@
 本数据集采集自全国政府官网、卫健委等官方途径，现共获取4626位确诊患者轨迹信息（截至至2月21日，数据将持续更新）
 
 ## 结构化数据属性
+[image](https://github.com/BDBC-KG-NLP/track_data/blob/master/IMG/%E5%8E%9F%E5%A7%8B%E6%95%B0%E6%8D%AE.png)
+[image](https://github.com/BDBC-KG-NLP/track_data/blob/master/IMG/json%E6%A0%BC%E5%BC%8F.png)
 
 ## 确诊患者轨迹可视化分析与查询
 北航大数据科学与脑机智能高精尖中心研究团队也已开发‘确诊患者轨迹可视化分析与查询’可视化系统，系统目前正在完善中，即将发布，敬请期待
