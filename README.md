@@ -8,11 +8,11 @@
 
 ## 结构化数据属性
 
-<img src="https://github.com/BDBC-KG-NLP/track_data/blob/master/IMG/%E7%A1%AE%E8%AF%8A%E6%82%A3%E8%80%85%E5%85%AC%E5%BC%80%E5%8E%9F%E5%A7%8B%E6%95%B0%E6%8D%AE.png" alt="图片替换文本" width="500" height="313" align="bottom" />
 确诊患者原始公开数据
+<img src="https://github.com/BDBC-KG-NLP/track_data/blob/master/IMG/%E7%A1%AE%E8%AF%8A%E6%82%A3%E8%80%85%E5%85%AC%E5%BC%80%E5%8E%9F%E5%A7%8B%E6%95%B0%E6%8D%AE.png" alt="图片替换文本" width="500" height="313" align="bottom" />
 
-<img src="https://github.com/BDBC-KG-NLP/track_data/blob/master/IMG/json%E6%A0%BC%E5%BC%8F%E6%95%B0%E6%8D%AE.png" alt="图片替换文本" width="500" height="313" align="bottom" />
 抽取结构化json数据
+<img src="https://github.com/BDBC-KG-NLP/track_data/blob/master/IMG/json%E6%A0%BC%E5%BC%8F%E6%95%B0%E6%8D%AE.png" alt="图片替换文本" width="500" height="313" align="bottom" />
 
 公开数据以患者为单位，分为基本信息和轨迹信息两类信息：
 
