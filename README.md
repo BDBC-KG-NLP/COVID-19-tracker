@@ -9,9 +9,9 @@
 ## 结构化数据属性
 
 <img src="https://github.com/BDBC-KG-NLP/track_data/blob/master/IMG/%E5%8E%9F%E5%A7%8B%E6%95%B0%E6%8D%AE.png" alt="图片替换文本" width="500" height="313" align="bottom" />
-原始数据
+确诊患者原始公开数据
 
-<img src="https://github.com/BDBC-KG-NLP/track_data/blob/master/IMG/json%E6%A0%BC%E5%BC%8F.png" alt="图片替换文本" width="500" height="313" align="bottom" />
+<img src="https://github.com/BDBC-KG-NLP/track_data/blob/master/IMG/%E7%A1%AE%E8%AF%8A%E6%82%A3%E8%80%85%E5%85%AC%E5%BC%80%E5%8E%9F%E5%A7%8B%E6%95%B0%E6%8D%AE.png" alt="图片替换文本" width="500" height="313" align="bottom" />
 抽取结构化json数据
 
 公开数据以患者为单位，分为基本信息和轨迹信息两类信息：
@@ -27,7 +27,7 @@
 关旭涛 何睿智 李卓然 梁为寅 罗培祥 齐楚涵 张淑慧 郑春晓 孙凯 杨凤涛
 
 ## 数据使用说明
-本数据仅开源作为研究使用，相关科研成果请引用。
+本数据仅开源作为研究使用，相关研究成果成果请引用：
 
    中文署名：北京航空航天大学大数据科学与脑机智能高精尖创新中心，北京， 100191 
 
