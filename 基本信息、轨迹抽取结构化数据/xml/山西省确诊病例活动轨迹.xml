@@ -6577,12 +6577,7 @@
 		</轨迹3>
 		<轨迹4 type="dict">
 			<时间 type="str">1月23日</时间>
-			<途径地点 type="list">
-				<item type="list">
-					<item type="str">村委会</item>
-					<item type="str"/>
-				</item>
-			</途径地点>
+			<途径地点 type="list"/>
 			<事件 type="str">干活</事件>
 			<描述 type="str">1月23日, 在村委会干活</描述>
 			<交通工具 type="str"/>

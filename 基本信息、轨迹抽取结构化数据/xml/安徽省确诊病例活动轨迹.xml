@@ -1406,6 +1406,13 @@
 			<交通工具 type="str"/>
 		</轨迹3>
 		<轨迹4 type="dict">
+			<时间 type="str">2月6日</时间>
+			<途径地点 type="list"/>
+			<事件 type="str">居家</事件>
+			<描述 type="str">2月7日, 未出门</描述>
+			<交通工具 type="str"/>
+		</轨迹4>
+		<轨迹5 type="dict">
 			<时间 type="str">2月8日</时间>
 			<途径地点 type="list">
 				<item type="list">
@@ -1416,7 +1423,7 @@
 			<事件 type="str">就诊</事件>
 			<描述 type="str">2月8日, 至蚌埠市第三人民医院发热门诊就诊。患者目前在市定点医院隔离治疗，病情平稳。</描述>
 			<交通工具 type="str">自驾</交通工具>
-		</轨迹4>
+		</轨迹5>
 	</item>
 	<item type="dict">
 		<基本信息 type="dict">
