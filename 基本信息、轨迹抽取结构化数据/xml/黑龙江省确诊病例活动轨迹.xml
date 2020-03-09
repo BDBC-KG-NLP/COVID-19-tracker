@@ -47290,4 +47290,104 @@
 			<交通工具 type="str"/>
 		</轨迹1>
 	</item>
+	<item type="dict">
+		<基本信息 type="dict">
+			<性别 type="str">男</性别>
+			<年龄 type="str">43</年龄>
+			<工作 type="str"/>
+			<确诊时间 type="str"/>
+			<key name="武汉（湖北）接触史" type="str">未知</key>
+			<病例编号 type="str"/>
+			<常住地 type="str">牡丹江市西安区新泰锦绣城小区</常住地>
+			<key name="武汉（湖北）接触史描述" type="str"/>
+			<病例公布地区 type="dict">
+				<省份 type="str"/>
+				<城市 type="str"/>
+			</病例公布地区>
+		</基本信息>
+		<轨迹1 type="dict">
+			<时间 type="str">2月10日</时间>
+			<途径地点 type="list">
+				<item type="list">
+					<item type="str">第一人民医院</item>
+					<item type="str">129.597395,44.597372</item>
+				</item>
+			</途径地点>
+			<事件 type="str">在医院陪父亲</事件>
+			<描述 type="str">2月10日至2月26日, 除下述行踪外，均在第一人民医院陪护父亲</描述>
+			<交通工具 type="str"/>
+		</轨迹1>
+		<轨迹2 type="dict">
+			<时间 type="str">2月15日</时间>
+			<途径地点 type="list">
+				<item type="list">
+					<item type="str">第一人民医院</item>
+					<item type="str">129.597395,44.597372</item>
+				</item>
+				<item type="list">
+					<item type="str">大润发西安区店</item>
+					<item type="str">129.607112,44.572102</item>
+				</item>
+			</途径地点>
+			<事件 type="str">购物</事件>
+			<描述 type="str">2月15日、18日、22日, 乘坐出租车由第一人民医院前往大润发西安区店购物，购物时间均为15时30分许至16时许，全程佩戴口罩，购物后，步行回家</描述>
+			<交通工具 type="str">出租车</交通工具>
+		</轨迹2>
+		<轨迹3 type="dict">
+			<时间 type="str">2月16日</时间>
+			<途径地点 type="list">
+				<item type="list">
+					<item type="str">牡丹江市西安区新泰锦绣城小区</item>
+					<item type="str">129.60578,44.567178</item>
+				</item>
+				<item type="list">
+					<item type="str">第一人民医院</item>
+					<item type="str">129.597395,44.597372</item>
+				</item>
+			</途径地点>
+			<事件 type="str">在医院陪父亲</事件>
+			<描述 type="str">2月16日、19日、23日, 早乘坐出租车由家前往第一人民医院</描述>
+			<交通工具 type="str">出租车</交通工具>
+		</轨迹3>
+		<轨迹4 type="dict">
+			<时间 type="str">2月21日</时间>
+			<途径地点 type="list">
+				<item type="list">
+					<item type="str">牡丹江市西安区新泰锦绣城小区</item>
+					<item type="str">129.60578,44.567178</item>
+				</item>
+				<item type="list">
+					<item type="str">新华市场</item>
+					<item type="str">129.608858,44.588912</item>
+				</item>
+			</途径地点>
+			<事件 type="str">购买午餐</事件>
+			<描述 type="str">2月21日、22日, 均为12时前，步行往返新华市场购买午餐，患者与商家均佩戴口罩，中间有塑料布隔离开，使用微信支付餐费</描述>
+			<交通工具 type="str">步行</交通工具>
+		</轨迹4>
+		<轨迹5 type="dict">
+			<时间 type="str">2月26日</时间>
+			<途径地点 type="list">
+				<item type="list">
+					<item type="str">康安医院</item>
+					<item type="str">129.584814,44.597184</item>
+				</item>
+			</途径地点>
+			<事件 type="str">隔离观察</事件>
+			<描述 type="str">2月26日, 中午，患者作为高风险人员转入康安医院进行隔离医学观察</描述>
+			<交通工具 type="str"/>
+		</轨迹5>
+		<轨迹6 type="dict">
+			<时间 type="str">3月4日</时间>
+			<途径地点 type="list">
+				<item type="list">
+					<item type="str">康安医院</item>
+					<item type="str">129.584814,44.597184</item>
+				</item>
+			</途径地点>
+			<事件 type="str">确诊</事件>
+			<描述 type="str">3月4日, 患者被确诊为新冠肺炎病例，目前在康安医院隔离治疗，密切接触者均已隔离并进行医学观察。（注：患者在乘坐出租车过程中全程佩戴口罩，且坐在有塑料布隔离的后排座位，使用微信支付车费）</描述>
+			<交通工具 type="str"/>
+		</轨迹6>
+	</item>
 </root>

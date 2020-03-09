@@ -22608,4 +22608,55 @@
 			<交通工具 type="str">救护车</交通工具>
 		</轨迹3>
 	</item>
+	<item type="dict">
+		<基本信息 type="dict">
+			<性别 type="str">女</性别>
+			<年龄 type="str">30</年龄>
+			<工作 type="str"/>
+			<确诊时间 type="str"/>
+			<key name="武汉（湖北）接触史" type="str">未知</key>
+			<病例编号 type="str"/>
+			<常住地 type="str">凉山州昭觉县</常住地>
+			<key name="武汉（湖北）接触史描述" type="str"/>
+			<病例公布地区 type="dict">
+				<省份 type="str"/>
+				<城市 type="str"/>
+			</病例公布地区>
+		</基本信息>
+		<轨迹1 type="dict">
+			<时间 type="str">2月29日</时间>
+			<途径地点 type="list">
+				<item type="list">
+					<item type="str">凉山州昭觉县</item>
+					<item type="str">102.842611,28.014088</item>
+				</item>
+				<item type="list">
+					<item type="str">华西医院</item>
+					<item type="str">104.060469,30.641514</item>
+				</item>
+			</途径地点>
+			<事件 type="str">为女儿看病</事件>
+			<描述 type="str">2月29日, 患者与家人自驾来蓉，前往华西医院为患脑病的女儿就诊</描述>
+			<交通工具 type="str">自驾</交通工具>
+		</轨迹1>
+		<轨迹2 type="dict">
+			<时间 type="str">3月3日</时间>
+			<途径地点 type="list">
+				<item type="list">
+					<item type="str">华西医院</item>
+					<item type="str">104.060469,30.641514</item>
+				</item>
+			</途径地点>
+			<事件 type="str">采样送检</事件>
+			<描述 type="str">3月3日, 华西医院在日常监测中发现患者出现发热症状，立即采样检测</描述>
+			<交通工具 type="str"/>
+		</轨迹2>
+		<轨迹3 type="dict">
+			<时间 type="str">3月4日</时间>
+			<途径地点 type="list"/>
+			<事件 type="str">隔离治疗</事件>
+			<描述 type="str">3月4日, 新冠病毒核酸检测结果为阳性，现已隔离治疗。</描述>
+			<交通工具 type="str">救护车</交通工具>
+		</轨迹3>
+	</item>
 </root>
